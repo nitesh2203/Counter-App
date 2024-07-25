@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nitesh2203/Counter-App.git/static/css/main.15627dfb.css",
+    "main.js": "/nitesh2203/Counter-App.git/static/js/main.c301ae32.js",
+    "index.html": "/nitesh2203/Counter-App.git/index.html",
+    "main.15627dfb.css.map": "/nitesh2203/Counter-App.git/static/css/main.15627dfb.css.map",
+    "main.c301ae32.js.map": "/nitesh2203/Counter-App.git/static/js/main.c301ae32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15627dfb.css",
+    "static/js/main.c301ae32.js"
+  ]
+}
